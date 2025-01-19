@@ -14,16 +14,16 @@
 <br>
 
 <div align="center" >
-  <a href="https://medium.com/@yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://medium.com/@gabrielpelizzaro" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
   </a>
-  <a href="https://www.kaggle.com/yourusername" target="_blank" rel="noopener noreferrer"> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/fullzer4" target="_blank" rel="noopener noreferrer"> &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
   </a>
-  <a href="https://leetcode.com/yourusername" target="_blank" rel="noopener noreferrer"> &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/fullzer4/" target="_blank" rel="noopener noreferrer"> &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge">
   </a>
-  <a href="https://www.youtube.com/channel/yourchannelid" target="_blank" rel="noopener noreferrer"> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@yFullzer4" target="_blank" rel="noopener noreferrer"> &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge">
   </a>
 </div>
