@@ -11,11 +11,9 @@
   I began my programming journey at the age of 10, inspired by my father, and now, at 19, I channel that passion as an ML Engineer. My mission is to develop innovative solutions that make a positive impact on people’s lives. Additionally, I share my enthusiasm for technology through my YouTube channel and Posts on Medium.
 </p>
 
-<img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullzer4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
 <br>
 
-<div align="left" >
+<div align="center" >
   <a href="https://medium.com/@yourusername" target="_blank" rel="noopener noreferrer"> &nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
   </a>
