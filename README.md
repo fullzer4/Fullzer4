@@ -31,31 +31,3 @@
 </div>
 
 <br>
-
-<p><strong>Projects I’ve Developed</strong></p>
-
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="URL_OF_PROJECT_1" target="_blank" rel="noopener noreferrer">
-          <img src="URL_OF_IMAGE_1" width="200px" alt="ContentMiner.AI"/><br/>
-          <b>ContentMiner.AI</b>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="URL_OF_PROJECT_2" target="_blank" rel="noopener noreferrer">
-          <img src="URL_OF_IMAGE_2" width="200px" alt="TuxTalk"/><br/>
-          <b>TuxTalk</b>
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="URL_OF_PROJECT_3" target="_blank" rel="noopener noreferrer">
-          <img src="URL_OF_IMAGE_3" width="200px" alt="Realtime Pong AI"/><br/>
-          <b>Realtime Pong AI</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
