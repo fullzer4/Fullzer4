@@ -3,14 +3,14 @@
 <br>
 
 <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=tokyonight&hide_border=true"/>
-<p align="left">
-  Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Waving Hand">, I'm Gabriel Pelizzaro (Fullzer4)
-</p>
 
-<p>
-  I began my programming journey at the age of 10, inspired by my father, and now, at 19, I channel that passion as an ML Engineer. My mission is to develop innovative solutions that make a positive impact on people’s lives. Additionally, I share my enthusiasm for technology through my YouTube channel and Posts on Medium.
-</p>
+🤖 **ML Engineer** | 💻 Developer Since Age 10 | 🥷 **Full Stack Developer**
 
+- 🚀 9 years of programming experience that began with my father's inspiration
+- 🔭 Currently harnessing AI/ML to build
+- 📚 Sharing knowledge through [YouTube tutorials](https://youtube.com/@yourchannel) and [Medium articles](https://medium.com/@yourprofile)
+- 💼 Working in **AAWZ** as ML Engineer II
+  
 <br>
 
 <div align="center" >
