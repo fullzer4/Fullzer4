@@ -1,12 +1,7 @@
-<img width="100%" src="https://i.pinimg.com/originals/af/07/ed/af07ed777318ec7c474804dbf7afdffb.gif">
-
-<br>
-
 <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🤖 **ML Engineer** | 💻 Developer Since Age 10 | 🥷 **Full Stack Developer**
+🤖 **ML Engineer** | 🥷 **Full Stack Developer**
 
-- 🚀 9 years of programming experience that began with my father's inspiration
 - 🔭 Currently harnessing AI/ML to build
 - 📚 Sharing knowledge through [YouTube tutorials](https://youtube.com/@yourchannel) and [Medium articles](https://medium.com/@yourprofile)
 - 💼 Working in **AAWZ** as ML Engineer II
