@@ -1,7 +1,5 @@
 <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=fullzer4&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
-
 🤖 **ML Engineer** | 🥷 **Full Stack Developer**
 
 - 🔭 Currently harnessing AI/ML to build
