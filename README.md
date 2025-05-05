@@ -5,18 +5,20 @@
 🤖 **ML Engineer** | 🥷 **Full Stack Developer**
 
 - 🔭 Currently harnessing AI/ML to build
-- 📚 Sharing knowledge through [YouTube tutorials](https://youtube.com/@yourchannel) and [Medium articles](https://medium.com/@yourprofile)
+- 📚 Sharing knowledge through [Kaggle](https://www.kaggle.com/fullzer4) and [Medium articles]([https://medium.com/@yourprofile](https://medium.com/@gabrielpelizzaro))
 - 💼 Working in **AAWZ** as ML Engineer II
   
 <br>
 
-<div align="center" >
-  <a href="https://medium.com/@gabrielpelizzaro" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
-  </a>
-  <a href="https://www.kaggle.com/fullzer4" target="_blank" rel="noopener noreferrer"> &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
-  </a>
+## Latest Medium Articles
+
+<div align="center">
+
+| Article | Date |
+|---------|------|
+| [Parallelism, Pragmatized: Choosing the Strategy That Works in Real Code](https://medium.com/@gabrielpelizzaro/parallelism-pragmatized-choosing-the-strategy-that-works-in-real-code-baec6970f7db?sk=a99fc212e5be1115ef14454001f4c840) | April 10, 2025 |
+| [How to Safely Clean Memory Explicit in Python: A Practical Guide](https://medium.com/@gabrielpelizzaro/how-to-safely-clean-memory-in-python-a-practical-guide-8e4dfa76d375) | March 15, 2025 |
+
 </div>
 
 <br>
