@@ -16,8 +16,8 @@
 
 | Post | Date |
 |---------|------|
-| [Parallelism, Pragmatized: Choosing the Strategy That Works in Real Code](https://medium.com/@gabrielpelizzaro/parallelism-pragmatized-choosing-the-strategy-that-works-in-real-code-baec6970f7db?sk=a99fc212e5be1115ef14454001f4c840) | April 10, 2025 |
-| [How to Safely Clean Memory Explicit in Python: A Practical Guide](https://medium.com/@gabrielpelizzaro/how-to-safely-clean-memory-in-python-a-practical-guide-8e4dfa76d375) | March 15, 2025 |
+| [Parallelism, Pragmatized: Choosing the Strategy That Works in Real Code](https://medium.com/@gabrielpelizzaro/parallelism-pragmatized-choosing-the-strategy-that-works-in-real-code-baec6970f7db?sk=a99fc212e5be1115ef14454001f4c840) | May 5, 2025 |
+| [How to Safely Clean Memory Explicit in Python: A Practical Guide](https://medium.com/@gabrielpelizzaro/how-to-safely-clean-memory-in-python-a-practical-guide-8e4dfa76d375) | May 24, 2024 |
 
 </div>
 
