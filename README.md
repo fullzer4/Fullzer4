@@ -6,6 +6,6 @@
 
 - 🔭 Currently harnessing AI/ML to build
 - 📚 Sharing knowledge through [Kaggle](https://www.kaggle.com/fullzer4) and [Medium articles](https://medium.com/@gabrielpelizzaro)
-- 💼 Working in **AAWZ** as ML Engineer II
+- 💼 Working in **AAWZ** as ML Engineer III
   
 <br>
